@@ -39,7 +39,7 @@ For Mac and Linux:
 Open a terminal window.
 
 Navigate to the directory where your Git repository is located using the cd command. For example, if your repository is located at /path/to/repository, you would run:
-
+#####
 Inside the repository, navigate to the .git/hooks directory:
 
 Create a new file for your pre-hook script. For example, if you want to create a pre-commit hook, run:
