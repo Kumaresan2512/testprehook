@@ -1,0 +1,69 @@
+Sure! Here are the instructions for setting up pre-hooks on Mac, Linux, and Windows:
+
+For Mac and Linux:
+
+Open a terminal window.
+
+Navigate to the directory where your Git repository is located using the cd command. For example, if your repository is located at /path/to/repository, you would run:
+
+Inside the repository, navigate to the .git/hooks directory:
+
+Create a new file for your pre-hook script. For example, if you want to create a pre-commit hook, run:
+
+Open the pre-hook file in a text editor and add your desired pre-hook logic. For example, you can use a shell script to run tests or perform code linting before each commit.
+
+Save the file and make it executable by running:
+
+Test your pre-hook by making a commit. The pre-hook script will be executed automatically before the commit is finalized.
+
+For Windows:
+
+Open a command prompt or PowerShell window.
+
+Navigate to the directory where your Git repository is located using the cd command. For example, if your repository is located at C:\path\to\repository, you would run:
+
+Inside the repository, navigate to the .git\hooks directory:
+
+Create a new file for your pre-hook script. For example, if you want to create a pre-commit hook, run:
+
+Open the pre-hook file in a text editor and add your desired pre-hook logic. For example, you can use a batch script to run tests or perform code linting before each commit.
+
+Save the file.
+
+Test your pre-hook by making a commit. The pre-hook script will be executed automatically before the commit is finalized.
+
+Remember to customize the pre-hook script according to your specific requirements.Sure! Here are the instructions for setting up pre-hooks on Mac, Linux, and Windows:
+
+For Mac and Linux:
+
+Open a terminal window.
+
+Navigate to the directory where your Git repository is located using the cd command. For example, if your repository is located at /path/to/repository, you would run:
+
+Inside the repository, navigate to the .git/hooks directory:
+
+Create a new file for your pre-hook script. For example, if you want to create a pre-commit hook, run:
+
+Open the pre-hook file in a text editor and add your desired pre-hook logic. For example, you can use a shell script to run tests or perform code linting before each commit.
+
+Save the file and make it executable by running:
+
+Test your pre-hook by making a commit. The pre-hook script will be executed automatically before the commit is finalized.
+
+For Windows:
+
+Open a command prompt or PowerShell window.
+
+Navigate to the directory where your Git repository is located using the cd command. For example, if your repository is located at C:\path\to\repository, you would run:
+
+Inside the repository, navigate to the .git\hooks directory:
+
+Create a new file for your pre-hook script. For example, if you want to create a pre-commit hook, run:
+
+Open the pre-hook file in a text editor and add your desired pre-hook logic. For example, you can use a batch script to run tests or perform code linting before each commit.
+
+Save the file.
+
+Test your pre-hook by making a commit. The pre-hook script will be executed automatically before the commit is finalized.
+
+Remember to customize the pre-hook script according to your specific requirements.
